@@ -1,6 +1,6 @@
 {
-    "name": "attesconsole_webapp",
-    "short_name": "attesconsole_webapp",
+    "name": "polux_suite_mobile",
+    "short_name": "polux_suite_mobile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
