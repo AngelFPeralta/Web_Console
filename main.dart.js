@@ -102716,6 +102716,8 @@ var $async$kC=A.x(function(c,d){if(c===1)return A.z(d,r)
 while(true)switch(s){case 0:p=a.b
 p===$&&A.b()
 p.n(0,"Authorization","Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IkNDNDU1Q0IwRUQ4RUQ4ODI1RjRBMkIxMUYyMkM4RUI4IiwidHlwIjoiYXQrand0In0.eyJpc3MiOiJodHRwczovL2RldjAxcGx4ZGV2MS53ZXBzeXMubG9jYWw6NDQzMTAiLCJuYmYiOjE3MjY3MTAzOTQsImlhdCI6MTcyNjcxMDM5NCwiZXhwIjoxNzYyNzEwMzk0LCJhdWQiOiJNeUNsaWVudElkX2FwaSIsInNjb3BlIjpbIk15Q2xpZW50SWRfYXBpIl0sImNsaWVudF9pZCI6IjJSQ29ubmVjdCIsInN1YiI6IjBkYmU3NTQ4LTdjOWItNGRmNy1hOTRhLTVkYWQ0MjJkZmIyMCIsImVtYWlsIjoiY2hlbmNoZW52b2x2aW9AeW9wbWFpbC5jb20ifQ.axv7mhxQHhHpwa2UTsASa6NsFCf-YFXuueXYmamgc6coDUgWVd7UcFkcDySNFTjymJy_M0F7B_VI5YrPIqoM3LX_Yaf62QxQJa-P7RpQXE787MTxuIYArA4tiIezuLSXyGN2E4oDQvOoW5k1pdo52R7reBJ0v55H8YXeHA0-gq4Vee8GsdjdjK8udJ-DB9SElg1tPfB334RBMynb_BB_REWlYJyShddbmCCPOpfTcfHRJwkb40Wvm20__PQOl9FdCdeRH5yI4mxDJstlE90y13dRQ96LVFpzNXdowU3UXGiTE3DZeoaYolgn7s-6vYMm9kTfC4tGrSfZ3l-RF7h-2w")
+a.b.n(0,"Content-Type","application/json")
+a.b.n(0,"Accept","application/json")
 q.a7N(a,b)
 return A.A(null,r)}})
 return A.B($async$kC,r)}}
